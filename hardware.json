@@ -38,10 +38,10 @@
     "status": "Active"
   },
   {
-    "id": "nas-01",
-    "name": "NAS",
-    "type": "Storage",
-    "role": "Network Attached Storage",
+    "id": "node-02",
+    "name": "Proxmox Node 02",
+    "type": "Server",
+    "role": "Hypervisor",
     "make": "Your Make",
     "model": "Your Model",
     "storage": [
